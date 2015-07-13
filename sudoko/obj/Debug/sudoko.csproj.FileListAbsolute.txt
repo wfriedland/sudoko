@@ -1,0 +1,9 @@
+C:\Users\svmsupport\Documents\Visual Studio 2012\Projects\sudoko\sudoko\bin\Debug\sudoko.exe.config
+C:\Users\svmsupport\Documents\Visual Studio 2012\Projects\sudoko\sudoko\bin\Debug\sudoko.exe
+C:\Users\svmsupport\Documents\Visual Studio 2012\Projects\sudoko\sudoko\bin\Debug\sudoko.pdb
+C:\Users\svmsupport\Documents\Visual Studio 2012\Projects\sudoko\sudoko\obj\Debug\sudoko.csprojResolveAssemblyReference.cache
+C:\Users\svmsupport\Documents\Visual Studio 2012\Projects\sudoko\sudoko\obj\Debug\sudoko.Form1.resources
+C:\Users\svmsupport\Documents\Visual Studio 2012\Projects\sudoko\sudoko\obj\Debug\sudoko.Properties.Resources.resources
+C:\Users\svmsupport\Documents\Visual Studio 2012\Projects\sudoko\sudoko\obj\Debug\sudoko.csproj.GenerateResource.Cache
+C:\Users\svmsupport\Documents\Visual Studio 2012\Projects\sudoko\sudoko\obj\Debug\sudoko.exe
+C:\Users\svmsupport\Documents\Visual Studio 2012\Projects\sudoko\sudoko\obj\Debug\sudoko.pdb
